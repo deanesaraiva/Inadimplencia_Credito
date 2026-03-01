@@ -58,7 +58,7 @@ Contém mais de **100.000 clientes** e variáveis como:
 ## Distribuição da inadimplência
 
 <div align="center">
-<img src="imagens/Percentual_de_inadimplencia.png" width="600">
+<img  height="300" alt="Percentual de Inadimplência" src="https://github.com/deanesaraiva/Inadimplencia_Credito/blob/Percentual_de_inadimplencia.png">
 </div>
 
 ### Insight
