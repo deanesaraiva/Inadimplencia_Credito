@@ -196,6 +196,46 @@ Este modelo pode ser utilizado para:
 
 ---
 
+# 🚀 Como executar o projeto
+1. Clonar o repositório
+git clone https://github.com/seuusuario/Inadimplencia_Credito.git
+2. Entrar na pasta
+cd Inadimplencia_Credito
+3. Abrir o notebook
+jupyter notebook notebooks/previsao_inadimplencia.ipynb
+
+---
+
+📈 Melhorias futuras
+
+Deploy do modelo em API
+
+Dashboard interativo
+
+Ajuste fino de hiperparâmetros
+
+Testes com outros algoritmos
+
+---
+
+👩‍💻 Autora
+
+Deane Saraiva
+
+Projeto desenvolvido para portfólio em Data Science.
+
+---
+
+⭐ Destaques do projeto
+
+✔ Problema real de negócio
+✔ Pipeline completo de Machine Learning
+✔ Modelos avançados
+✔ Interpretação de resultados
+✔ Feature Importance
+✔ Matriz de Confusão
+✔ Ajuste de threshold
+
 # 📁 Estrutura do projeto
 
 ```bash
