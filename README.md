@@ -58,7 +58,7 @@ Contém mais de **100.000 clientes** e variáveis como:
 ## Distribuição da inadimplência
 
 <div align="center">
-<img  height="300" alt="Percentual de Inadimplência" src="https://github.com/deanesaraiva/Inadimplencia_Credito/blob/Percentual_de_inadimplencia.png">
+<img  height="300" align="left"" alt="Percentual de Inadimplência" src="https://github.com/deanesaraiva/Inadimplencia_Credito/blob//main/Percentual_de_inadimplencia.png">
 </div>
 
 ### Insight
@@ -72,7 +72,7 @@ Contém mais de **100.000 clientes** e variáveis como:
 ## Histórico de atrasos vs inadimplência
 
 <div align="center">
-<img src="imagens/boxplot_atrasos.png" width="600">
+<img  height="300" alt="Atrasos com Inadimplência" align="left" src="https://github.com/deanesaraiva/Inadimplencia_Credito/blob//main/Boxplot_Atrasos.png">
 </div>
 
 ### Insight
@@ -85,7 +85,7 @@ Esta é uma das variáveis mais importantes para prever risco.
 ## Uso de crédito vs inadimplência
 
 <div align="center">
-<img src="imagens/uso_credito.png" width="600">
+<img  height="300" alt="Taxa de Endividamento" align="left" src="https://github.com/deanesaraiva/Inadimplencia_Credito/blob//main/uso_credito.png">
 </div>
 
 ### Insight
